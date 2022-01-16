@@ -244,7 +244,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![Output](./calculations/ma1.png)
-![Output](ma2.png)
+![Output](./calculations/ma2.png)
 
 ## Result:
 
